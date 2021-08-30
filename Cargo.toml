@@ -2,3 +2,7 @@
 name = "gpt-partition-type"
 version = "0.1.0"
 edition = "2018"
+description = "A Rust library for getting information about a GPT partition from its partition type GUID"
+license = "MIT"
+documentation = "https://docs.rs/gpt-partition-type"
+repository = "https://github.com/jamcleod/gpt-partition-type"

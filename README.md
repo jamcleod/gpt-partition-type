@@ -2,7 +2,6 @@
 
 A Rust library for getting information about a GPT partition from its partition type GUID.
 
-
 ### Usage:
 
 ```rust
